@@ -33,3 +33,4 @@ ans = 8/89
 sb = np.cumsum(tb)
 if (abs(sb[-1] - ans) < eps): print("1.4 correct")
 else: print("1.4 incorrect")
+  
